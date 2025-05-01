@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 # x курс
 # Фамилия Имя Отчество
 
 
 
+=======
+>>>>>>> blog_project/main
 # SP10_BlogCustomizer
 
 
